@@ -1,6 +1,8 @@
 # Ciph
 [![CircleCI](https://circleci.com/gh/silmood/ciph/tree/master.svg?style=svg)](https://circleci.com/gh/silmood/ciph/tree/master)
 
+[![CircleCI](https://circleci.com/gh/luisfergromo/ciph/tree/master.svg?style=svg)](https://circleci.com/gh/luisfergromo/ciph/tree/master)
+
 Building, testing, and deploying manually software is a repetitive and time-consuming task.
 During this course, you will learn to build a mobile application, and integrate and automate its required tests. Additionally, you will learn and use the different kind of tests you can create in Android platforms.
 
